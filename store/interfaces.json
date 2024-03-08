@@ -1,0 +1,6 @@
+{
+  "box": {
+    "component": "Box",
+    "composition": "children"
+  }
+}
